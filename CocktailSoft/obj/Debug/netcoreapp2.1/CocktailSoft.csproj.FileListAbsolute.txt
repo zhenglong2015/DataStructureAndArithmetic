@@ -1,0 +1,14 @@
+D:\TestProject\DataStructureAndArithmetic\CocktailSoft\bin\Debug\netcoreapp2.1\CocktailSoft.deps.json
+D:\TestProject\DataStructureAndArithmetic\CocktailSoft\bin\Debug\netcoreapp2.1\CocktailSoft.runtimeconfig.json
+D:\TestProject\DataStructureAndArithmetic\CocktailSoft\bin\Debug\netcoreapp2.1\CocktailSoft.runtimeconfig.dev.json
+D:\TestProject\DataStructureAndArithmetic\CocktailSoft\bin\Debug\netcoreapp2.1\CocktailSoft.dll
+D:\TestProject\DataStructureAndArithmetic\CocktailSoft\bin\Debug\netcoreapp2.1\CocktailSoft.pdb
+D:\TestProject\DataStructureAndArithmetic\CocktailSoft\bin\Debug\netcoreapp2.1\Common.dll
+D:\TestProject\DataStructureAndArithmetic\CocktailSoft\bin\Debug\netcoreapp2.1\Common.pdb
+D:\TestProject\DataStructureAndArithmetic\CocktailSoft\obj\Debug\netcoreapp2.1\CocktailSoft.csprojAssemblyReference.cache
+D:\TestProject\DataStructureAndArithmetic\CocktailSoft\obj\Debug\netcoreapp2.1\CocktailSoft.csproj.CoreCompileInputs.cache
+D:\TestProject\DataStructureAndArithmetic\CocktailSoft\obj\Debug\netcoreapp2.1\CocktailSoft.AssemblyInfoInputs.cache
+D:\TestProject\DataStructureAndArithmetic\CocktailSoft\obj\Debug\netcoreapp2.1\CocktailSoft.AssemblyInfo.cs
+D:\TestProject\DataStructureAndArithmetic\CocktailSoft\obj\Debug\netcoreapp2.1\CocktailSoft.csproj.CopyComplete
+D:\TestProject\DataStructureAndArithmetic\CocktailSoft\obj\Debug\netcoreapp2.1\CocktailSoft.dll
+D:\TestProject\DataStructureAndArithmetic\CocktailSoft\obj\Debug\netcoreapp2.1\CocktailSoft.pdb

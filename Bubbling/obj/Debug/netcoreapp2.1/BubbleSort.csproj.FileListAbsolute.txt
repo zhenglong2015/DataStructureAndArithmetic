@@ -1,0 +1,14 @@
+D:\TestProject\DataStructureAndArithmetic\Bubbling\bin\Debug\netcoreapp2.1\BubbleSort.deps.json
+D:\TestProject\DataStructureAndArithmetic\Bubbling\bin\Debug\netcoreapp2.1\BubbleSort.runtimeconfig.json
+D:\TestProject\DataStructureAndArithmetic\Bubbling\bin\Debug\netcoreapp2.1\BubbleSort.runtimeconfig.dev.json
+D:\TestProject\DataStructureAndArithmetic\Bubbling\bin\Debug\netcoreapp2.1\BubbleSort.dll
+D:\TestProject\DataStructureAndArithmetic\Bubbling\bin\Debug\netcoreapp2.1\BubbleSort.pdb
+D:\TestProject\DataStructureAndArithmetic\Bubbling\obj\Debug\netcoreapp2.1\BubbleSort.csprojAssemblyReference.cache
+D:\TestProject\DataStructureAndArithmetic\Bubbling\obj\Debug\netcoreapp2.1\BubbleSort.csproj.CoreCompileInputs.cache
+D:\TestProject\DataStructureAndArithmetic\Bubbling\obj\Debug\netcoreapp2.1\BubbleSort.AssemblyInfoInputs.cache
+D:\TestProject\DataStructureAndArithmetic\Bubbling\obj\Debug\netcoreapp2.1\BubbleSort.AssemblyInfo.cs
+D:\TestProject\DataStructureAndArithmetic\Bubbling\obj\Debug\netcoreapp2.1\BubbleSort.dll
+D:\TestProject\DataStructureAndArithmetic\Bubbling\obj\Debug\netcoreapp2.1\BubbleSort.pdb
+D:\TestProject\DataStructureAndArithmetic\Bubbling\bin\Debug\netcoreapp2.1\Common.dll
+D:\TestProject\DataStructureAndArithmetic\Bubbling\bin\Debug\netcoreapp2.1\Common.pdb
+D:\TestProject\DataStructureAndArithmetic\Bubbling\obj\Debug\netcoreapp2.1\BubbleSort.csproj.CopyComplete
