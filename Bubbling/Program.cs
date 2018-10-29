@@ -20,9 +20,9 @@ namespace BubbleSort
             Common.ConsoleHelper.ConsoleWrite(array);
 
 
-            Console.WriteLine("第一版排序后");
-            Sort1(array);
-            Common.ConsoleHelper.ConsoleWrite(array);
+            //Console.WriteLine("第一版排序后");
+            //Sort1(array);
+            //Common.ConsoleHelper.ConsoleWrite(array);
 
 
             //Console.WriteLine("第二版排序后");
