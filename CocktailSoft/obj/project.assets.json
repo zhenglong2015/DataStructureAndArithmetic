@@ -703,11 +703,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\TestProject\\数据结构和算法\\-\\DataStructureAndArithmetic\\CocktailSoft\\CocktailSoft.csproj",
+      "projectUniqueName": "D:\\TestProject\\数据结构和算法\\DataStructureAndArithmetic\\CocktailSoft\\CocktailSoft.csproj",
       "projectName": "CocktailSoft",
-      "projectPath": "D:\\TestProject\\数据结构和算法\\-\\DataStructureAndArithmetic\\CocktailSoft\\CocktailSoft.csproj",
+      "projectPath": "D:\\TestProject\\数据结构和算法\\DataStructureAndArithmetic\\CocktailSoft\\CocktailSoft.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "D:\\TestProject\\数据结构和算法\\-\\DataStructureAndArithmetic\\CocktailSoft\\obj\\",
+      "outputPath": "D:\\TestProject\\数据结构和算法\\DataStructureAndArithmetic\\CocktailSoft\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -726,8 +726,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "D:\\TestProject\\数据结构和算法\\-\\DataStructureAndArithmetic\\Common\\Common.csproj": {
-              "projectPath": "D:\\TestProject\\数据结构和算法\\-\\DataStructureAndArithmetic\\Common\\Common.csproj"
+            "D:\\TestProject\\数据结构和算法\\DataStructureAndArithmetic\\Common\\Common.csproj": {
+              "projectPath": "D:\\TestProject\\数据结构和算法\\DataStructureAndArithmetic\\Common\\Common.csproj"
             }
           }
         }

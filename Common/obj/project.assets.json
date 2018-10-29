@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\TestProject\\数据结构和算法\\-\\DataStructureAndArithmetic\\Common\\Common.csproj",
+      "projectUniqueName": "D:\\TestProject\\数据结构和算法\\DataStructureAndArithmetic\\Common\\Common.csproj",
       "projectName": "Common",
-      "projectPath": "D:\\TestProject\\数据结构和算法\\-\\DataStructureAndArithmetic\\Common\\Common.csproj",
+      "projectPath": "D:\\TestProject\\数据结构和算法\\DataStructureAndArithmetic\\Common\\Common.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "D:\\TestProject\\数据结构和算法\\-\\DataStructureAndArithmetic\\Common\\obj\\",
+      "outputPath": "D:\\TestProject\\数据结构和算法\\DataStructureAndArithmetic\\Common\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
