@@ -703,9 +703,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\TestProject\\数据结构和算法\\DataStructureAndArithmetic\\Bubbling\\BubbleSort.csproj",
-      "projectName": "BubbleSort",
-      "projectPath": "D:\\TestProject\\数据结构和算法\\DataStructureAndArithmetic\\Bubbling\\BubbleSort.csproj",
+      "projectUniqueName": "D:\\TestProject\\数据结构和算法\\DataStructureAndArithmetic\\Bubbling\\冒泡排序.csproj",
+      "projectName": "冒泡排序",
+      "projectPath": "D:\\TestProject\\数据结构和算法\\DataStructureAndArithmetic\\Bubbling\\冒泡排序.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
       "outputPath": "D:\\TestProject\\数据结构和算法\\DataStructureAndArithmetic\\Bubbling\\obj\\",
       "projectStyle": "PackageReference",

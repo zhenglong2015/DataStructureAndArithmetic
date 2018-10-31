@@ -3,13 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2048
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BubbleSort", "Bubbling\BubbleSort.csproj", "{B5B3F485-BAC2-47AD-BB3F-AE6A5AC6B618}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "冒泡排序", "Bubbling\冒泡排序.csproj", "{B5B3F485-BAC2-47AD-BB3F-AE6A5AC6B618}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CocktailSoft", "CocktailSoft\CocktailSoft.csproj", "{0898D6D2-1D1F-4B33-9BDD-3B1C34C22983}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "鸡尾酒排序", "CocktailSoft\鸡尾酒排序.csproj", "{0898D6D2-1D1F-4B33-9BDD-3B1C34C22983}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Common", "Common\Common.csproj", "{52AFE1D5-C5A3-437F-9E41-A34C08CC72C5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuickSoft", "QuickSoft\QuickSoft.csproj", "{4BC1E351-1572-49EC-817D-6E19C4FB1FA4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "快速排序", "QuickSoft\快速排序.csproj", "{4BC1E351-1572-49EC-817D-6E19C4FB1FA4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "二叉堆", "二叉堆\二叉堆.csproj", "{D128F0C7-AA99-4F9D-A7AA-E78763B17ED5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "堆排序", "堆排序\堆排序.csproj", "{B5BABC24-6301-473E-8A0F-0A934CF30B4D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +37,14 @@ Global
 		{4BC1E351-1572-49EC-817D-6E19C4FB1FA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4BC1E351-1572-49EC-817D-6E19C4FB1FA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4BC1E351-1572-49EC-817D-6E19C4FB1FA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D128F0C7-AA99-4F9D-A7AA-E78763B17ED5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D128F0C7-AA99-4F9D-A7AA-E78763B17ED5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D128F0C7-AA99-4F9D-A7AA-E78763B17ED5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D128F0C7-AA99-4F9D-A7AA-E78763B17ED5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5BABC24-6301-473E-8A0F-0A934CF30B4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5BABC24-6301-473E-8A0F-0A934CF30B4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5BABC24-6301-473E-8A0F-0A934CF30B4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5BABC24-6301-473E-8A0F-0A934CF30B4D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

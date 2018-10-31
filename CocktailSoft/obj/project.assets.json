@@ -703,9 +703,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\TestProject\\数据结构和算法\\DataStructureAndArithmetic\\CocktailSoft\\CocktailSoft.csproj",
-      "projectName": "CocktailSoft",
-      "projectPath": "D:\\TestProject\\数据结构和算法\\DataStructureAndArithmetic\\CocktailSoft\\CocktailSoft.csproj",
+      "projectUniqueName": "D:\\TestProject\\数据结构和算法\\DataStructureAndArithmetic\\CocktailSoft\\鸡尾酒排序.csproj",
+      "projectName": "鸡尾酒排序",
+      "projectPath": "D:\\TestProject\\数据结构和算法\\DataStructureAndArithmetic\\CocktailSoft\\鸡尾酒排序.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
       "outputPath": "D:\\TestProject\\数据结构和算法\\DataStructureAndArithmetic\\CocktailSoft\\obj\\",
       "projectStyle": "PackageReference",

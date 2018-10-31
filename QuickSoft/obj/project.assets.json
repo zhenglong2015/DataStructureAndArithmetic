@@ -703,9 +703,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\TestProject\\数据结构和算法\\DataStructureAndArithmetic\\QuickSoft\\QuickSoft.csproj",
-      "projectName": "QuickSoft",
-      "projectPath": "D:\\TestProject\\数据结构和算法\\DataStructureAndArithmetic\\QuickSoft\\QuickSoft.csproj",
+      "projectUniqueName": "D:\\TestProject\\数据结构和算法\\DataStructureAndArithmetic\\QuickSoft\\快速排序.csproj",
+      "projectName": "快速排序",
+      "projectPath": "D:\\TestProject\\数据结构和算法\\DataStructureAndArithmetic\\QuickSoft\\快速排序.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
       "outputPath": "D:\\TestProject\\数据结构和算法\\DataStructureAndArithmetic\\QuickSoft\\obj\\",
       "projectStyle": "PackageReference",
